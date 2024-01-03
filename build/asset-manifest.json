@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12aa5d94.css",
+    "main.js": "/static/js/main.7b3051b9.js",
+    "static/media/giphy.gif": "/static/media/giphy.0d7a1a57dd652eabfbf8.gif",
+    "static/media/222.jpg": "/static/media/222.ce4b6851ae83087227a0.jpg",
+    "static/media/back.jpg": "/static/media/back.e57b33da6fa34a47171e.jpg",
+    "static/media/doc.gif": "/static/media/doc.763ce29ba78eec1ff5eb.gif",
+    "static/media/80.png": "/static/media/80.811a97b7b7e1296be6e8.png",
+    "static/media/toothForExam.gif": "/static/media/toothForExam.00d17cd4bac6691838f0.gif",
+    "static/media/pat.gif": "/static/media/pat.5ea9323b864e7cbee5ba.gif",
+    "static/media/help.gif": "/static/media/help.cd131b39c54c25e94ac6.gif",
+    "static/media/bkk.jpg": "/static/media/bkk.aea7e590ab0b275982cb.jpg",
+    "static/media/dental_pg.png": "/static/media/dental_pg.c5440ae78fa3812a8ee1.png",
+    "static/media/200.png": "/static/media/200.49ef815cc52e0ce38643.png",
+    "static/media/invBck2.webp": "/static/media/invBck2.3f38f079fb8153e5c1c3.webp",
+    "static/media/CorrectDentalChart.png": "/static/media/CorrectDentalChart.99f892ccad4b994cdc8a.png",
+    "static/media/imgplaquechart.jpeg": "/static/media/imgplaquechart.1617ac4ffd064e8876f6.jpeg",
+    "static/media/imgplaquechartempty.jpg": "/static/media/imgplaquechartempty.5ae871714814c50592a7.jpg",
+    "static/media/DentistryBackgound.jpg": "/static/media/DentistryBackgound.bd13094cb29dc8e3e8da.jpg",
+    "static/media/case2.jpg": "/static/media/case2.7caa8ef6f7a774764e32.jpg",
+    "static/media/Dental_sheet.PNG": "/static/media/Dental_sheet.e238c74f2d2e27796301.PNG",
+    "static/media/radioBck.jpg": "/static/media/radioBck.d13ad7c39e7d621717e6.jpg",
+    "static/media/Painfulteeth.jpeg": "/static/media/Painfulteeth.3bb5f4f06268695513d1.jpeg",
+    "index.html": "/index.html",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "main.12aa5d94.css.map": "/static/css/main.12aa5d94.css.map",
+    "main.7b3051b9.js.map": "/static/js/main.7b3051b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12aa5d94.css",
+    "static/js/main.7b3051b9.js"
+  ]
+}
