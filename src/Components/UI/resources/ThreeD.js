@@ -4,13 +4,13 @@ import { Unity, useUnityContext } from "react-unity-webgl";
 function ThreeD({ onUnityData, onSendMessageToUnity }) {
   const { unityProvider, loadingProgression, isLoaded } = useUnityContext({
     loaderUrl:
-      "https://virtual-patient-simulator-2023.web.app/assets/Build/WEBGL.loader.js",
+      "https://virtual-patient-simulator-2k23.web.app/assets/Build/WEBGL.loader.js",
     dataUrl:
-      "https://virtual-patient-simulator-2023.web.app/assets/Build/WEBGL.data",
+      "https://virtual-patient-simulator-2k23.web.app/assets/Build/WEBGL.data",
     frameworkUrl:
-      "https://virtual-patient-simulator-2023.web.app/assets/Build/WEBGL.framework.js",
+      "https://virtual-patient-simulator-2k23.web.app/assets/Build/WEBGL.framework.js",
     codeUrl:
-      "https://virtual-patient-simulator-2023.web.app/assets/Build/WEBGL.wasm",
+      "https://virtual-patient-simulator-2k23.web.app/assets/Build/WEBGL.wasm",
   });
 
   // Function to be called from Unity
