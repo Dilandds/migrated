@@ -22,7 +22,7 @@ const Test = ({onSubmit}) => {
     formData.append("image1", userDrawingBlob, "user-drawing.png");
     formData.append(
       "image2",
-      new Blob([await fetch("https://dilanddsfinalyr2023.web.app/1.png").then((r) => r.blob())], {
+      new Blob([await fetch("https://virtual-patient-simulator-2k23.web.app/1.png").then((r) => r.blob())], {
         type: "image/png",
       }),
       "1.png"
